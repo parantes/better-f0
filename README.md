@@ -1,5 +1,7 @@
 # better_f0.praat
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3470108.svg)](https://doi.org/10.5281/zenodo.3470108)
+
 A Praat script for better f0 extraction.
 
 ## Purpose
@@ -31,11 +33,11 @@ See the [CHANGELOG](CHANGELOG.md) file for the complete version history.
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations.
 
-<!--
+
 ## How to cite
 
 Click on the DOI badge above to see instructions on how to cite the script.
--->
+
 
 ## Reference
 
